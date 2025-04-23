@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="left">👩‍💻  About Me <br>_______________________<br><br>As a design lover and mobile app development enthusiast, I have a growing passion for creating smooth, user-friendly digital experiences. I enjoy bringing ideas to life through clean and simple designs that people enjoy using. I have built a couple of non-production ready mobile apps using tools like React Native with Expo. I’m always learning more to improve my skills. My focus is on making apps that not only work well, but also look great. I’m comfortable with UI/UX design, from sketches to final interfaces, and I enjoy working with others to build projects that are useful, creative, and easy to use.<br><br>Second to design and development, I trade the financial markets with 3+ years of experience.</h5>
+<h5 align="left">👩‍💻  About Me <br>_______________________<br><br><h2>Font-End Dveloper(Mobile & Web).....</h2><br>As a design lover and mobile app development enthusiast, I have a growing passion for creating smooth, user-friendly digital experiences. I enjoy bringing ideas to life through clean and simple designs that people enjoy using. I have built a couple of non-production ready mobile apps using tools like React Native with Expo. I’m always learning more to improve my skills. My focus is on making apps that not only work well, but also look great. I’m comfortable with UI/UX design, from sketches to final interfaces, and I enjoy working with others to build projects that are useful, creative, and easy to use.<br><br>Second to design and development, I trade the financial markets with 3+ years of experience.</h5>
 
 ###
 
