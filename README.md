@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello world👋, Richmond here</h1>
+<h1 align="center">Hello world👋, Richmond Nyamedor here</h1>
 
 ###
 
